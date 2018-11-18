@@ -4,7 +4,9 @@
 	src: url('droid-sans');
 	src: url('droid-serif');
 }
-
+body{
+	background-color: white;
+}
 
 header{
 	background: url("grille.png"); 
@@ -45,7 +47,7 @@ color: grey;
 }
 
 #HOTELS{
-font-family: 'Oswald-Bold.ttf', sans-serif;	
+font-family: 'Oswald', sans-serif;	
 font-size: 13px;
 text-align: center;
 margin-right: 20px;
@@ -56,7 +58,7 @@ color: #808080;
 }
 
 #RESTAURANTS{
-font-family: 'Oswald-Bold.ttf', sans-serif;	
+font-family: 'Oswald', sans-serif;	
 font-size: 13px;
 text-align: center;
 margin-right: 20px;
@@ -66,7 +68,7 @@ color: #808080;
 }
 
 #SERVICES{
-font-family: 'Oswald-Bold.ttf', sans-serif;
+font-family: 'Oswald', sans-serif;
 font-size: 13px;	
 text-align: center;
 margin-right: 20px;
@@ -76,7 +78,7 @@ color: #808080;
 }
 
 #ACTIVITES{
-font-family: 'Oswald-Bold.ttf', sans-serif;
+font-family: 'Oswald', sans-serif;
 font-size: 13px;	
 text-align: center;
 margin-right: 20px;
@@ -86,7 +88,7 @@ color: #808080;
 }
 
 #PLUS{
-font-family: 'Oswald-Bold.ttf', sans-serif;
+font-family: 'Oswald', sans-serif;
 font-size: 13px;	
 text-align: center;
 margin-right: 20px;
@@ -224,6 +226,10 @@ h4{
 	font-size: 14px;
 	color: #b4b4b4;
 	text-decoration: underline;
+}
+a{
+	text-decoration: none;
+	color: #b4b4b4;
 }
 
 .suppport img{
